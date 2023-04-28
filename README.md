@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ender1311
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m a software developer
+- 🌱 I’m currently learning to implement the OpenAi API into my full-stack applications
+- 📫 How to reach me danluk1311@gmail.com
 
 <!---
 ender1311/ender1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
