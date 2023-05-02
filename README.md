@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ender1311
 - 👀 I’m a software developer
-- 🌱 I’m currently learning to implement the OpenAi API into my full-stack applications
+- 🌱 I’m currently learning Oauth2 API's and OpenAi API.
 - 📫 How to reach me danluk1311@gmail.com
 
 <!---
